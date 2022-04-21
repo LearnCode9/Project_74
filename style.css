@@ -1,0 +1,27 @@
+.travel_mainDiv
+{
+border: 1px solid #9ba194;
+}
+.travel_mainDiv img
+{
+width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 22px
+}
+.movie_head
+{
+font-size: 22px;
+padding: 6px 22px;
+border-radius: 12px;
+margin-bottom: 15px;
+}
+.movie_head
+{
+    float: right;
+
+}
+.achievement_text span{
+    color: #2b9410
+}
